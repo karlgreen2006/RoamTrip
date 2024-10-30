@@ -1,0 +1,1 @@
+This repository will hold some code for my social media platform, RoamTrip. For security, safety and commercial reasons, only select code will be published, rather than the full project. You'll be able to see the functional website at https://roamtrip.net when the product is ready for release.
